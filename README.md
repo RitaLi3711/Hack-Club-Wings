@@ -4,8 +4,6 @@ A passion project for making articulated wings. This is for the frame work. the 
 Journal Entries 
 
 Inspiration + Frame Decision
-image
-image
 I've always wanted to make a cosplay with wings, as it's a common character trait.
 However, the key is that these wings will be articulated. Thus, they'll have to move.
 
